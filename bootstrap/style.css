@@ -1,0 +1,25 @@
+.background{
+    background-color: rgb(143, 143, 142);
+}
+.logo{
+    height: 50px;
+    width: 60px;
+}
+.khan{
+    height: 750px;
+}
+.oth-items img{
+height: 250px;
+width: 250px;
+border-radius: 10px;
+}
+.foot-1{
+    background-color: rgb(143, 143, 142);
+}
+.fa{
+    font-size: 48px!important
+}
+.footer{
+    background-color: rgb(143, 143, 142);
+    padding: 100px;
+}
